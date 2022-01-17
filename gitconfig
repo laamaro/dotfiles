@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lauraamaro1804@gmail.com
+	name = Laura Amaro
